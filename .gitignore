@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.vscode/
+.DS_Store
+*.png
